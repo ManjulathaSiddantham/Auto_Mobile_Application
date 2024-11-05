@@ -1,2 +1,24 @@
-# Auto_Mobile_Application
-Auto Companion is a MEVN stack app for managing car information with full CRUD functionality. Users can create, view, edit, and delete car records, including name, color, and price. Built with MongoDB, Express, Vue, and Node, it offers a responsive UI with real-time updates. Perfect for car inventory management.
+# frontend
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
